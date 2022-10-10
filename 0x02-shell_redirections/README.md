@@ -5,3 +5,4 @@ reverse
 cut
 empty
 gifs
+acrostic
