@@ -4,3 +4,4 @@ removing
 reverse
 cut
 empty
+gifs
