@@ -15,3 +15,4 @@ print
 path
 decimal
 rot
+odd
