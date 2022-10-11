@@ -4,3 +4,4 @@ path
 paths
 global
 local
+new local
