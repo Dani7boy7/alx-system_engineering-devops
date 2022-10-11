@@ -12,3 +12,5 @@ love
 binary
 combine
 print
+path
+decimal
