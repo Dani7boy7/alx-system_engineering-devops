@@ -8,3 +8,4 @@ new local
 new global
 true
 divide
+love
