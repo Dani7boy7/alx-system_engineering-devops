@@ -11,3 +11,4 @@ divide
 love
 binary
 combine
+print
