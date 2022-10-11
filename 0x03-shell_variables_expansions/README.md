@@ -10,3 +10,4 @@ true
 divide
 love
 binary
+combine
