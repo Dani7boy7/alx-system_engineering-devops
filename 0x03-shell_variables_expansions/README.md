@@ -6,3 +6,4 @@ global
 local
 new local
 new global
+true
