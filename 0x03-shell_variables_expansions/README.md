@@ -5,3 +5,4 @@ paths
 global
 local
 new local
+new global
