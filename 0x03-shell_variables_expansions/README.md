@@ -1,3 +1,4 @@
 alias
 hello
 path
+paths
