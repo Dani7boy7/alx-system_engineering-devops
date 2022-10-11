@@ -9,3 +9,4 @@ new global
 true
 divide
 love
+binary
