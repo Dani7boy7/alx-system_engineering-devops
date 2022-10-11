@@ -7,3 +7,4 @@ local
 new local
 new global
 true
+divide
